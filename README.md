@@ -1,1 +1,1 @@
-Currently only Eastern Orthodoxy, Protestantism and Shi'a Islam is in the game, might expand in the future. (THIS IS A TEST, DO NOT DOWNLOAD UNTIL FURTHER NOTICE.)
+Have you wanted to play RekMOD with BNW Religions? No? Well i did, so that's why i made this mod! I didn't see anything similar on the Unciv modlist, so i decided to make it myself! ravignir, if you see this, please don't be angry, i didn't know i 'stole' you!
