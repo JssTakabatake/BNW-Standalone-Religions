@@ -1,1 +1,1 @@
-Have you wanted to play RekMOD with BNW Religions? No? Well i did, so that's why i made this mod! I didn't see anything similar on the Unciv modlist, so i decided to make it myself! ravignir, if you see this, please don't be angry, i didn't know i 'stole' you!
+Have you wanted to play RekMOD with BNW Religions? No? Well i did, so that's why i made this mod! I didn't see anything similar on the Unciv modlist, so i decided to make it myself! I might make this a religion expansion mod when i get to learn how images work.
