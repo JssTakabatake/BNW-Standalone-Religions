@@ -1,1 +1,1 @@
-Is there not enough religion icons for you? Do you want more? No? I did. So i made this mod, It is pretty small though, so don't really expect much. More religions coming soon.
+Is there not enough religion icons for you? Do you want more? No? I did. So i made this mod, It adds 7 new religions in total, and changes the Christianity icon. Inspired by ravignir and GrimPixel. (Supports Brazilian Portuguese, Spanish and French.)
