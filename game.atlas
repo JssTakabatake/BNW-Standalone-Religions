@@ -13,49 +13,49 @@ ReligionIcons/Christianity
   index: -1
 ReligionIcons/Druidism
   rotate: false
-  xy: 758, 18
-  size: 97, 86
-  orig: 97, 86
+  xy: 112, 18
+  size: 100, 86
+  orig: 100, 86
   offset: 0, 0
   index: -1
 ReligionIcons/Eastern Orthodoxy
-  rotate: false
-  xy: 112, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ReligionIcons/Greco-Roman Mythology
-  rotate: false
-  xy: 544, 17
-  size: 99, 87
-  orig: 99, 87
-  offset: 0, 0
-  index: -1
-ReligionIcons/Inca Religion
   rotate: false
   xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/Mesoamerican Religion
+ReligionIcons/Greco-Roman Mythology
+  rotate: false
+  xy: 652, 17
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+ReligionIcons/Inca Religion
   rotate: false
   xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/Protestantism
+ReligionIcons/Mesoamerican Religion
   rotate: false
   xy: 436, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+ReligionIcons/Protestantism
+  rotate: false
+  xy: 544, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ReligionIcons/Shi'a Islam
   rotate: false
-  xy: 651, 17
+  xy: 759, 17
   size: 99, 87
   orig: 99, 87
   offset: 0, 0
